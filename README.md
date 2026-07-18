@@ -20,7 +20,7 @@
 [![Get the Ready-Built Google Sheet](https://img.shields.io/badge/📊_Get_the_Ready--Built_Google_Sheet-Click_to_Copy_Template-0362FC?style=for-the-badge)](#)
 <!-- Paste your published Google Sheet template link in place of the # above -->
 
-[![Star this repo](https://img.shields.io/github/stars/risewithvj/salesiq-chatbot-report-automation?style=for-the-badge&color=FFD700)]([https://github.com/risewithvj](https://github.com/risewithvj/zoho-salesiq-report-automation))
+[![Star this repo](https://img.shields.io/github/stars/risewithvj/zoho-salesiq-report-automation?style=for-the-badge&color=FFD700)](https://github.com/risewithvj)
 [![Report an Issue](https://img.shields.io/badge/Report_an_Issue-Contact_Creator-E5484D?style=for-the-badge)](https://github.com/risewithvj)
 [![Email Support](https://img.shields.io/badge/Email_Support-risewithvj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:risewithvj@gmail.com)
 
