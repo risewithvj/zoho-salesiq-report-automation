@@ -10,6 +10,7 @@
 [![License: MIT+Attribution](https://img.shields.io/badge/License-MIT%20%2B%20Attribution-blue?style=flat-square)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](./SUPPORT.md)
 [![Maintained by risewithvj](https://img.shields.io/badge/Maintained%20by-risewithvj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayakumarl/)
+[![Profile Views](https://komarev.com/ghpvc/?username=risewithvj&color=0A66C2&style=flat-square&label=Profile+Views&base=1500)](https://github.com/risewithvj)
 
 **Keywords:** Zoho SalesIQ Report Automation · Chatbot Lead Report · Website Chatbot Analytics · WhatsApp Chatbot Report · Google Sheets Chatbot Dashboard · Apps Script Email Automation · Lead Source Report · Zoho SalesIQ Google Sheets Integration · Chatbot KPI Dashboard
 
